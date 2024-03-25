@@ -23,5 +23,9 @@
    "files.autoSave": "off",
    "workbench.colorTheme": "Midnight Synth",
    "terminal.integrated.gpuAcceleration": "canvas",
-   "editor.defaultFormatter": "HookyQR.beautify"
+   "editor.defaultFormatter": "HookyQR.beautify",
+   "cSpell.words": [
+      "herokuapp",
+      "summernote"
+   ]
 }
